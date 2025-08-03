@@ -1,4 +1,4 @@
-# My First Data Analysis Project: Retail Sales Analysis
+# Data Analysis Project: Retail Sales Analysis
 
 ## About This Project
 
@@ -107,3 +107,4 @@ This tells me the store focuses on affordable items that many people can buy.
 - **Python**: For all the data work
 - **Pandas**: To clean and analyze the data
 - **Basic statistics**: To find averages, counts, and patterns
+
